@@ -1,0 +1,22 @@
+* {
+    background-color: black;
+}
+h1 {
+    color: red;
+}
+
+h2,
+h3 {
+    color: lightgreen;
+}
+
+li,
+p,
+a {
+    color: lightblue;
+}
+
+a {
+    text-decoration: underline dotted;
+    font-weight: bold;
+}
