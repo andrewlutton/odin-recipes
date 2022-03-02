@@ -2,4 +2,6 @@
 
 Tutorial site from The Odin Project.
 
-Demonstrating basic HTML concepts
+1. Demonstrating basic HTML concepts
+
+2. Adding basic css to pages.
